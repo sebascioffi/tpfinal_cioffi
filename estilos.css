@@ -1,0 +1,27 @@
+.navbar-expand-sm{
+    background-color: black;
+}
+
+.logo{
+    border: 2px solid white;
+}
+
+.navbar-toggler-icon{
+    background-color: white;
+}
+
+.card-border{
+    border: solid 10px white ;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: all ease-out 0.2s;
+}
+
+.card-border:hover{
+    transform: scale(1.05);
+} 
+
+.testimonios{
+    text-align: center;
+}
+
